@@ -1,11 +1,11 @@
 
-<h1 align="center">Hi 👋, I'm Ali Mohammadzadeh <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1> 
-<h3 align="center">I'm React\Next & Flutter Dedveloper</h3>
+<h1 align="center">Hi 👋, I'm AmirHo3ein <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1> 
+<h3 align="center">I'm .net Developer</h3>
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-const AliMohammadzadeh = {
+const AmirHo3ein = {
   pronouns: "he" | "man",
   code: [Javascript, React, Next, Flutter, Nodejs],
   tools: [git],
@@ -40,7 +40,7 @@ const AliMohammadzadeh = {
 
 - 💬 Ask me about **react, next, flutter**
 
-- 📫 How to reach me **ali24mohammadzadeh@gmail.com**
+- 📫 How to reach me **@**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
