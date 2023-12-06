@@ -30,11 +30,11 @@ const AmirHo3ein = {
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alimohammadzadeh24&label=Profile%20views&color=0e75b6&style=flat" alt="alimohammadzadeh24" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=amirho3eintaghavii&label=Profile%20views&color=0e75b6&style=flat" alt="amirho3eintaghavii" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alimohammadzadeh24" alt="alimohammadzadeh24" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amirho3eintaghavii" alt="amirho3eintaghavii" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/alimmz__" target="blank"><img src="https://img.shields.io/twitter/follow/alimmz__?logo=twitter&style=for-the-badge" alt="alimmz__" /></a> </p>
+<p align="left"> <a href="https://twitter.com/alimmz__" target="blank"><img src="https://img.shields.io/twitter/follow/amirho3eintaghavii?logo=twitter&style=for-the-badge" alt="amirho3eintaghavii" /></a> </p>
 
 - 🌱 I’m currently learning **Node.js, express.js**
 
@@ -44,11 +44,11 @@ const AmirHo3ein = {
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/alimmz__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alimmz__" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/alimmz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alimmz" height="30" width="40" /></a>
-<a href="https://instagram.com/alimmzdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alimmzdev" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/alimmz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="alimmz" height="30" width="40" /></a>
-<a href="https://discord.gg/Ali.M#0973" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="0973" height="30" width="40" /></a>
+<a href="https://twitter.com/amirho3eintaghavii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amirho3eintaghavii" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/amirho3eintaghavii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amirho3eintaghavii" height="30" width="40" /></a>
+<a href="https://instagram.com/amirho3eintaghavii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amirho3eintaghavii" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/amirho3eintaghavii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="amirho3eintaghavii" height="30" width="40" /></a>
+<a href="https://discord.gg/amirho3eintaghavii#0973" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="0973" height="30" width="40" /></a>
 </p>
 
 
