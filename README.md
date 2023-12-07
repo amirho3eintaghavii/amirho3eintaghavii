@@ -7,7 +7,7 @@
 ```javascript
 const AmirHo3ein = {
   pronouns: "he" | "man",
-  code: [Javascript, React, Next, Flutter, Nodejs],
+  code: [],
   tools: [git],
 }
 ```
