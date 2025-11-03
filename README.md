@@ -36,10 +36,6 @@ const AmirHo3ein = {
 
 <p align="left"> <a href="https://twitter.com/alimmz__" target="blank"><img src="https://img.shields.io/twitter/follow/amirho3eintaghavii?logo=twitter&style=for-the-badge" alt="amirho3eintaghavii" /></a> </p>
 
-- 🌱 I’m currently learning **Node.js, express.js**
-
-- 💬 Ask me about **react, next, flutter**
-
 - 📫 How to reach me **@**
 
 <h3 align="left">Connect with me:</h3>
